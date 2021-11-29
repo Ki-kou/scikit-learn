@@ -1,0 +1,237 @@
+
+Main Page
+Jump to navigationJump to search
+Translate this page
+Meta-Wiki
+Welcome to Meta-Wiki, the global community site for the Wikimedia Foundation's projects and related projects, from coordination and documentation to planning and analysis.
+
+Other meta-focused wikis such as Wikimedia Outreach are specialized projects that have their roots in Meta-Wiki. Related discussions also take place on Wikimedia mailing lists (particularly wikimedia-l, with its low-traffic equivalent WikimediaAnnounce), IRC channels on Libera, individual wikis of Wikimedia affiliates, and other places.
+
+Mission
+Projects
+(complete list)
+Research
+Translation
+(requests)
+Vision
+Current events
++/−
+November 2021
+OOjs UI icon speechBubbles-ltr-progressive.svg	November 22 – December 20:	Abstract Wikipedia licensing discussion.
+OOjs UI icon speechBubbles-ltr-progressive.svg	November 30, 17:00 UTC:	Online meeting about the future of the Community Wishlist Survey.
+Wikimedia-logo.svg	November 29:	Universal Code of Conduct Ratification conversation hour.
+Wikimedia-logo.svg	November 27 – November 28:	Strategic Wikimedia Affiliates Network (SWAN) meeting
+Wikimedia-logo.svg	November 4:	WikiAfrica Hour episode 7 (WikiIndaba 2021 Special edition).
+Wikimedia-logo.svg	September 28 – November 30:	Listening tour of Wikimedia Foundation's incoming chief executive officer, Maryana Iskander
+Wikimedia-logo.svg	November 19:	Meta-Wiki is marking 20 years.
+Wikimedia-logo.svg	November 5 – November 7:	Wikimedia CEE Online Meeting 2021 takes place.
+Wikimedia-logo.svg	November 5 – November 7:	WikiIndaba virtual conference
+October 2021
+Wikimedia-logo.svg	October 30 – October 31:	Strategic Wikimedia Affiliates Network (SWAN) meeting
+OOjs UI icon speechBubbles-ltr-progressive.svg	October 27, 14:30 UTC:	Online meeting about the Community Wishlist Survey.
+OOjs UI icon speechBubbles-ltr-progressive.svg	October 22 & October 29
+@ 15:00 UTC:	Conversation with the Wikimedia Enterprise API project team.
+Wikimedia-logo.svg	October 20:	Conversation with the Wikimedia Foundation’s Board of Trustees
+OOjs UI icon speechBubbles-ltr-progressive.svg	October 18:	A discussion on the Apple iCloud Private Relay, a new Apple service similar to open proxy or VPN, begins.
+OOjs UI icon speechBubbles-ltr-progressive.svg	October 14:	Conversation with Maggie Dennis on Community Resilience & Sustainability.
+Emojione 1F5F3.svg	October 11 – October 24:	Movement Charter Drafting Committee election voting is ongoing
+Wikimedia-logo.svg	October 8 – October 10:	WikiConference North America virtual conference
+Wikimedia-logo.svg	October 15 – October 17:	WikiArabia/2021 virtual conference
+Noto Emoji Pie 1f4e2.svg	August 17 – October 17:	Community review for Enforcement Draft Guidelines of the Universal Code of Conduct
+OOjs UI icon speechBubbles-ltr-progressive.svg	October 7, 18:00 UTC:	Meeting among functionaries to discuss the implementation of the Universal Code of Conduct
+Wikimedia-logo.svg	September 29 – October 3:	Movement Charter Election Compass Statements
+September 2021
+Wikimedia-logo.svg	September 25 – September 26:	Strategic Wikimedia Affiliates Network (SWAN) meeting
+Noto Emoji Pie 1f4e2.svg	September 14 :	All traffic from all wikis will be switched back to the primary data center. All wikis will be in read-only mode around 14:00 UTC.
+Noto Emoji Pie 1f4e2.svg	September 7:	The results of the 2021 Wikimedia Foundation Board of Trustees election
+Noto Emoji Pie 1f4e2.svg	August 2 – September 14:	Call for Candidates for the Movement Charter Drafting Committee.
+Requests
++/−
+Cross-wiki issues
+Bot status
+CheckUser
+Blocks/locks
+Username changes
+Permissions
+Spam blacklist
+Title blacklist
+Miscellaneous requests
+Other
+Translations
+Wikimedia Grants (funding)
+New sister projects
+New languages
+Project closures
+Deletions (Deleteme category) / Undeletions
+More (overview)
+Community and communication
++/−
+Babel, a discussion place for Meta-Wiki matters
+Mailing lists and IRC
+Meetups, a list of offline events
+Wikimedia Embassy, a list of local contacts by language
+Wikimedia Forum, a multilingual forum for Wikimedia projects
+Wikimedians
+Wikimedia Resource Center, a hub for Wikimedia Foundation resources
+Core issues and collaboration
++/−
+Community
+Dispute resolution
+Growing Wikimedia
+Interlingual coordination
+Requests for comment
+Wikimedia principles
+Wikimedia Foundation, Meta-Wiki, and its sister projects
++/−
+The Wikimedia Foundation is the overarching non-profit foundation that owns the Wikimedia servers along with the domain names, logos and trademarks of all Wikimedia projects and MediaWiki. Meta-Wiki is the coordination wiki for the various Wikimedia wikis.
++/−
+Content projects specialized by linguistic edition
+
+Wikipedia-logo-v2.svg
+Wikipedia
+The free encyclopedia
+Wiktionary small.svg
+Wiktionary
+Free dictionary and thesaurus
+Wikinews-logo.svg
+Wikinews
+Free-content news
+Wikivoyage-Logo-v3-icon.svg
+Wikivoyage
+Free travel guide
+Wikiquote-logo.svg
+Wikiquote
+Collection of quotations
+Wikiversity logo 2017.svg
+Wikiversity
+Free learning resources
+Wikisource-logo.svg
+Wikisource
+Free-content library
+Wikibooks-logo.svg
+Wikibooks
+Free textbooks and manuals
+Multilingual content projects
+
+Commons-logo.svg
+Wikimedia Commons
+Free media repository
+Wikidata-logo.svg
+Wikidata
+Free knowledge base
+Wikispecies-logo.svg
+Wikispecies
+Free directory of species
+Incubator-notext.svg
+Incubator
+For language versions in development
+"Outreach and administration" projects
+
+Wikimedia-logo black.svg
+Wikimedia Foundation
+Foundation public relations
+Wikimedia Outreach.svg
+Wikimedia Outreach
+Wikimedia outreach wiki
+Wikimania.svg
+Wikimania
+The International Conference
+Wikimedia Community Logo-Mailservices.svg
+Wikimedia Mailservices
+Wikimedia mailing lists
+Nuvola mimetypes log.svg
+Wikistats
+Wikimedia statistics
+"Technical and development" projects
+
+MediaWiki-2020-icon.svg
+MediaWiki
+MediaWiki software documentation
+Wikitech-2021-blue-icon.svg
+Wikitech
+Wikimedia technical documentation
+Wikimedia Phabricator logo.svg
+Phabricator
+A bug tracker for MediaWiki
+Wikipedia logo v2 (black).svg
+Test Wikipedia
+For testing software changes
+Wikimedia Cloud Services logo.svg
+Wikimedia Cloud Services
+Hosting environment for community managed software projects, tools, and data analysis
+Other languages:	Afrikaans Akan Alemannisch Aymar aru Bahasa Indonesia Bahasa Melayu Banjar Basa Bali Boarisch British English Bân-lâm-gú Chi-Chewa Cymraeg Deutsch Deutsch (Sie-Form) Diné bizaad English Esperanto Hausa Hawaiʻi Igbo Jawa Kiswahili Kreyòl ayisyen Latina Lëtzebuergesch Malti Mirandés Māori Napulitano Nederlands Nedersaksies Nordfriisk Norfuk / Pitkern Runa Simi Schweizer Hochdeutsch Sesotho Soomaaliga Sunda Taclḥit Tiếng Việt Tok Pisin Türkmençe Türkçe Wolof Zazaki asturianu azərbaycanca bosanski brezhoneg català corsu dagbanli dansk eesti español français galego hrvatski interlingua isiZulu italiano kurdî la .lojban. latviešu lietuvių magyar norsk bokmål norsk nynorsk occitan oʻzbekcha/ўзбекча polski português português do Brasil română sardu shqip sicilianu slovenčina slovenščina srpskohrvatski / српскохрватски suomi svenska tarandíne tolışi vèneto võro íslenska čeština Ελληνικά авар башҡортса беларуская беларуская (тарашкевіца) български гӀалгӀай ирон кыргызча македонски нохчийн русиньскый русский саха тыла српски / srpski татарча/tatarça тоҷикӣ тыва дыл удмурт українська эрзянь қазақша հայերեն ייִדיש עברית ئۇيغۇرچە / Uyghurche اردو العربية بهاس ملايو تۆرکجه سرائیکی سنڌي فارسی لۊری شومالی مازِرونی مصرى پښتو کوردی کھوار अवधी कॉशुर / کٲشُر नेपाली मराठी मैथिली संस्कृतम् हिन्दी অসমীয়া বাংলা ਪੰਜਾਬੀ ગુજરાતી தமிழ் తెలుగు ಕನ್ನಡ മലയാളം සිංහල ไทย ລາວ བོད་ཡིག ဖၠုံလိက် ဘာသာ မန် မြန်မာဘာသာ ၽႃႇသႃႇတႆး  მარგალური ქართული አማርኛ ᏣᎳᎩ ᐃᓄᒃᑎᑐᑦ/inuktitut ភាសាខ្មែរ ᱥᱟᱱᱛᱟᱲᱤ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ 中文 吴语 客家語/Hak-kâ-ngî 文言 日本語 粵語 贛語 ꯃꯤꯇꯩ ꯂꯣꯟ 조선말 한국어
+
+Navigation menu
+English
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Content pageDiscussion
+ReadView sourceView history
+Search
+Search Meta
+Main page
+Wikimedia News
+Translations
+Recent changes
+Random page
+Help
+Babel
+Community
+Wikimedia Resource Center
+Wikimedia Forum
+Mailing lists
+Requests
+Babylon
+Reports
+Research
+Planet Wikimedia
+Beyond the Web
+Meet Wikimedians
+Events
+Movement affiliates
+Donate
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+MediaWiki
+Multilingual Wikisource
+Wikispecies
+Wikibooks
+Wikidata
+Wikimania
+Wikinews
+Wikipedia
+Wikiquote
+Wikisource
+Wikiversity
+Wikivoyage
+Wiktionary
+In other languages
+Afrikaans
+Akan
+Alemannisch
+Aymar aru
+English
+Bahasa Indonesia
+日本語
+한국어
+Bahasa Melayu
+313 more
+Edit links
+This page was last edited on 17 November 2021, at 15:19.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. See Terms of Use for details.
+Privacy policyAbout MetaDisclaimersMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWiki
